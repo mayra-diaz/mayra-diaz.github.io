@@ -1,0 +1,58 @@
+---
+layout: page
+title: Experience
+include_in_header: true
+---
+
+# Relevant Experience
+
+## PROFESSIONAL EXPERIENCE
+
+### AVLA Peru Insurance Company - Lima, PE      (July 2022 - January 2023)
+*Risk Management Intern*
+- Conducted the optimization of a security process with python, SQL and API resulting in a reduction from 12 months to 2 min.
+- Developed the department website with React and Javascript for publishing important information for employees.
+- In control of reviewing and making presentations of ethical hacking reports for the managers and board of directors.
+- Managed the designing, planning and documenting for all tasks using agile methodologies in Notion.
+- Designed, planned, managed and analized data from an international cybersecurity campaign for nearly 500 employees in 4 countries, resulting in 6 workshops, 2 quizzes, 3 challenges, development of webpage and an 20% increase in engagement.
+
+<br>
+
+### University of Engineering and Technology (UTEC) - Lima, PE      (August 2020 – December 2022)
+*Teaching Assistant - Programming 1 and Introduction to Computer Science*
+- Supported the course to effectively teach programming, computational thinking and an overview of computer science.
+- Organized and led groups of up to 7 assistants to develop some of the course content, homework and autograders.
+Flourished and provided support for up to 4 classrooms of 250+ students each.
+Enlarged exam solutions and exercise sheets in Latex to explain and teach the students.
+ - Developed and provided activities and interactive exercises for 80+ students resulting in 80% of engagement and attendance.
+
+*Project Conserving Ancestral Varieties from Farm-to-Fork*
+*Compsust, Grupo Yanapai, Aguapan,  Resonanz Group and International Potato Center*
+- Research project to train an artificial intelligence model for the detection of 80 potato varieties, identifying their morphological characteristics and recognizing potato taxonomic clusters.
+- Responsible for the development of the software tool to label potatoes using React, NodeJS and Vite.
+
+<br>
+
+### Luteach and Papaya Tutors - Lima, PE        (February 2020 – March 2021)
+*Student teacher*
+- Taught more than 20 hours in programming courses about Python and C++.
+- Develop customized exercises and presentations for students that lead to better understanding and higher grades.
+
+<br>
+________
+<br>
+
+## LEADERSHIP POSITIONS
+
+### IEEE Computer Society President     (January 2021 - December 2021)
+- Managed a team of more than 16 people, resulting in more than 12 events and an international conference.
+- Delegated roles for organizing social events such as workshops, seminars, and integrations on topics related to computing.
+- Leads the team's relationships, both internally and externally, with other universities and countries.
+
+### Peer Mentoring Program at UTEC University       (March 2020 – August 2021)
+*Program leader*
+- Organized a team of 10 peer mentors and developed the mentoring materials for over 90 students. Followed up with all groups and coordinated with the program managers resulting in 75% of attendance.
+
+*Peer mentor*
+- Responsible for 15 undergraduate students per cycle. Conducted weekly meetings with assigned mentees to provide orientation to the university. Supported their transition to college by teaching them useful skills such as organization, time management, stress management, and public speaking.
+
