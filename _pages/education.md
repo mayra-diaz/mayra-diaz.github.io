@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Experience
+title: Education
 include_in_header: true
 ---
 
 # Relevant Experience
 
-## PROFESSIONAL EXPERIENCE
+## Academic background
 
 ### Colorado School of Mines -  Golden, CO      (January 2023 - May 2023)
 *Computer Science - Exchange student*

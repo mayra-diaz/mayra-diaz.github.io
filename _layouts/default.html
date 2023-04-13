@@ -40,12 +40,33 @@
                             <p class ="appDescription">
                                 {{ site.description }}
                             </p>
+                        <div>
                     </div>
-                    {% include features.html %}
+
+                    <div class="aboutMeContainer">
+                        <div class="aboutMe">
+                            <div>
+                                <span class="fa-stack fa-1x">
+                                    <i class="iconBack fas fa-circle fa-stack-2x"></i>
+                                    <i class="iconTop fas fa-sharp fa-solid fa-seedling fa-stack-1x"></i>
+                                </span>
+                            </div>
+                            <div class="aboutMeText">
+                                <h3>
+                                    About me
+                                </h3>
+                                <p>
+                                    {{ site.long_description }}
+                                </p>
+                            </div>
+                        </div>
+                    <div>
+
+                    <!-- {% include features.html %} -->
                     {% include footer.html %}
                     {% include appstoreimages.html %}
                 </div>
             </div>
-        </div>
+    </div>
 </body>
 </html>

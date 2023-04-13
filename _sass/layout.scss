@@ -1,5 +1,5 @@
 .imageWrapper {					// Sets the background image in the header area
-	height: 714px;
+	height: 440px;
 	background: 
 		linear-gradient(
 		rgba($image-overlay-color, $image-overlay-transparency), 
@@ -43,7 +43,8 @@
 	grid-column-gap: 30px;
 	grid-template-areas: 
 		"h h h h h h h h h h h h"
-		"p p p p p i i i i i i i"
+		"p i i i i i i i i i i r"
+		"a a a a a a a a a a a a"
 		"c c c c c c c c c c c c"
 		"f f f f f f f f f f f f";
 }
@@ -246,8 +247,9 @@ nav > ul li a:active {
 	grid-area: i;
 	display: flex;
 	flex-wrap: wrap;
-	padding-top: 140px;
-	align-content: flex-start;
+	padding-top: 90px;
+	align-content: flex;
+	justify-content: center;
 }
 
 @media only screen and (max-width: 992px) {
@@ -273,11 +275,10 @@ nav > ul li a:active {
 
 .appNamePriceContainer {
 	display: flex;
-	flex: 0 1 auto;
+	flex: 0 0 auto;
 	flex-direction: column;
-	align-items: start;
+	align-items: center;
 	justify-content: center;
-	margin-left: 30px;
 }
 
 .appName {
@@ -312,17 +313,20 @@ nav > ul li a:active {
 } 
 
 .appDescriptionContainer {
-	font-size: 2.5rem;
+	font-size: 2.1rem;
 	font-weight: normal;
 	width: 100%;
 	align-items: flex-start;
 	margin-top: 45px;
 	flex: 0 1 auto;
 	line-height: 1.5;
+	align-items: center;
+	justify-content: center;
 }
 
 .appDescription {
 	color: $app-description-color;
+	text-align: center;
 }
 
 @media only screen and (max-width: 992px) {
@@ -479,7 +483,18 @@ nav > ul li a:active {
 	justify-content: flex-start;
 	flex-grow: 1;
 	flex-wrap: wrap;
-	margin-top: 93px;
+	margin-top: 200px;
+}
+
+.aboutMeContainer {
+	grid-area: a;
+	display: flex;
+	flex: 0 0 auto;
+	align-content: flex;
+	justify-content: center;
+	flex-grow: 1;
+	flex-wrap: wrap;
+	margin-top: 100px;
 }
 
 .feature {
@@ -488,6 +503,14 @@ nav > ul li a:active {
 	padding-left: 15px;
 	padding-right: 15px;
 	width: calc(100%/3);
+}
+
+.aboutMe {
+	display: flex;
+	padding-top: 63px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 80%;
 }
 
 .feature:nth-child(-n+3) {
@@ -530,6 +553,21 @@ nav > ul li a:active {
 	color: $feature-text-color;
 	margin-top: 8px;
 	line-height: 1.5;
+}
+
+.aboutMeText {
+	margin-left: 18px;
+}
+
+.aboutMeText > h3 {
+	color: $feature-title-color;
+}
+
+.aboutMeText > p {
+	color: $feature-text-color;
+	margin-top: 8px;
+	line-height: 1.5;
+	text-align: justify;
 }
 
 @media only screen and (max-width: 992px) {
