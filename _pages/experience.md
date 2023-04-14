@@ -39,7 +39,9 @@ Enlarged exam solutions and exercise sheets in Latex to explain and teach the st
 - Develop customized exercises and presentations for students that lead to better understanding and higher grades.
 
 <br>
+
 ________
+
 <br>
 
 ## LEADERSHIP POSITIONS

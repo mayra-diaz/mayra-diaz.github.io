@@ -483,7 +483,7 @@ nav > ul li a:active {
 	justify-content: flex-start;
 	flex-grow: 1;
 	flex-wrap: wrap;
-	margin-top: 200px;
+	margin-top: 100px;
 }
 
 .aboutMeContainer {
@@ -502,7 +502,7 @@ nav > ul li a:active {
 	padding-top: 63px;
 	padding-left: 15px;
 	padding-right: 15px;
-	width: calc(100%/3);
+	width: calc(100%/2);
 }
 
 .aboutMe {
@@ -513,15 +513,15 @@ nav > ul li a:active {
 	width: 80%;
 }
 
-.feature:nth-child(-n+3) {
+.feature:nth-child(-n+2) {
     padding-top: 0px;   
 }
 
-.feature:nth-child(3n) {
+.feature:nth-child(2n) {
 	padding-right: 0px;
 }
 
-.feature:nth-child(3n+1) {
+.feature:nth-child(2n+1) {
 	padding-left: 0px;
 }
 
@@ -572,6 +572,15 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 992px) {
 
+	.aboutMe {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		padding-left: 0px;
+		padding-right: 10px;
+		width: 90%;
+	}
+
 	.features {
 		flex-grow: 1;
 		flex-direction: row;
@@ -606,6 +615,25 @@ nav > ul li a:active {
 }
 
 @media only screen and (max-width: 375px) {
+
+	.aboutMeContainer {
+		display: flex;
+		flex-grow: 1;
+		flex-direction: column;
+		flex-wrap: wrap;
+		padding-left: 15px;
+		padding-right: 15px;
+		width: 100%;
+	}
+
+	.aboutMe {
+		display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		padding-left: 5px;
+		padding-right: 5px;
+		width: 100%;
+	}
 
 	.features {
 		flex-grow: 1;

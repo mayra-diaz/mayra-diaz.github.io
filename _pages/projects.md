@@ -9,7 +9,9 @@ include_in_header: true
 ## Data Science
 
 <br>
+
 ________
+
 <br>
 
 ## Games design and development
@@ -21,7 +23,9 @@ ________
 
 
 <br>
+
 ________
+
 <br>
 
 ## Robotics
@@ -29,13 +33,17 @@ ________
 #### Wall following robot
 
 <br>
+
 ________
+
 <br>
 
 ## Algorithms and data structures
 
 <br>
+
 ________
+
 <br>
 
 ## Software
