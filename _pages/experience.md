@@ -31,6 +31,11 @@ Enlarged exam solutions and exercise sheets in Latex to explain and teach the st
 - Research project to train an artificial intelligence model for the detection of 80 potato varieties, identifying their morphological characteristics and recognizing potato taxonomic clusters.
 - Responsible for the development of the software tool to label potatoes using React, NodeJS and Vite.
 
+*Publications map webpage*
+*Compsust, SCOR Working Group*
+[https://ebus.science](https://ebus.science)
+- Implementation of a website using React, Django and SCRUM where scientific publications can be located on a map according to their location, resulting in their publication and international use.
+
 <br>
 
 ### Luteach and Papaya Tutors - Lima, PE        (February 2020 – March 2021)

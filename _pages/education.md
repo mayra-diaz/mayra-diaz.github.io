@@ -12,6 +12,6 @@ include_in_header: true
 SHPE member
 
 ### University of Engineering and Technology (UTEC) - Lima, PE      (March 2019– July 2024)
-*Computer Science - Junior*
+*Computer Science - Junior Undergraduate*
 
-Upper third - Student President
+Upper tenth - Student President
