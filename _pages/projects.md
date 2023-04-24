@@ -7,16 +7,9 @@ include_in_header: true
 # Projects
 
 ### StockX dataset cleaning and analysis
+*In progress*
 
-<br>
-
-________
-
-<br>
-
-### Wall following robot with reinforcement learning
-
-[Wall following](https://github.com/mayra-diaz/ROS_Wall_Following)
+`Data Engineering` `Data Science` `Pandas` `SQL`
 
 
 <br>
@@ -27,7 +20,37 @@ ________
 
 
 ### Demystifying Duo Security’s MFA and Okta Verify’s SSO Solution Used at Colorado School of Mines
+*In progress*
 
+`Cryptography`
+
+
+<br>
+
+________
+
+<br>
+
+
+### Robot Understanding of Human Behaviors Using Skeleton-Based Representations
+*In progress*
+
+`Robotics` `ROS` `Machine Learning`
+
+
+<br>
+
+________
+
+<br>
+
+
+### Wall following robot with reinforcement learning
+- Trained a robot to correctly follow walls and walk around different spaces making turns without colliding with anything, using reinforcement learning and experimenting with different states and actions for the Q-table and reward values.
+
+[Wall following](https://github.com/mayra-diaz/ROS_Wall_Following)
+
+`Robotics` `Reinforcement Learning` `ROS` `Python` `Gazebo`
 
 
 <br>
@@ -38,7 +61,11 @@ ________
 
 
 ### Pokemon prediction with CNN
+- Implemented and studied the performance of several CNNs for the classification of pokemons by their primary type: Fire, Water, Grass, Electric.
+
 [Pokemon CNN](https://github.com/DiegoOrtizS/pokemon-CNN)
+
+`Machine Learning` `Neural Networks` `PyTorch` `Pandas`
 
 
 <br>
@@ -49,6 +76,16 @@ ________
 
 
 ### Petbuss business analysis and design of technological business strategies
+Consulting project that helped real entrepreneurs to analyze and improve their business by constructing new business strategies. Petbuss is a business that does pet transportation and asistance in pet medical apppointments and other procedure.
+Results:
+- Completed the analysis and coumentation of the business, including the Business Model Canvas, SWOT, Process Flow Diagram and Business Analysis Process Flow.
+- Designed of business strategies based on their needs and develop complete documentation of it.
+- Created the routing algorithm, travel sequence and pricing algorithm to optimize the tranportation and reduce costs.
+- Identify the semantic rules and designed the entity-relationship diagram and relational model led to the successful creation of the database.
+- Functional and non-functional requirements identification and design of use case diagrams and platform mockup, considering the following features: registration and login, account recovery, travel request, payment, trip and user Profile.
+- Marketing overview, including creation and design of user stories, buyer persona, customer journey and social media.
+
+`Software` `Business` `Client Communication` `Databases` `Algorithms` 
 
 
 <br>
@@ -59,7 +96,11 @@ ________
 
 
 ### Remolques Tramontana DB design and implementation
+Consulting project with a real company called Remolques Tramontana. The project consisted in the analysis of the business to design and implement their database and then optimize their more important queries using indexes and other strategies. The company operates in the field of manufacture, repair and rental of trailers and semi-trailers for general cargo.
+- Identify semantic rules to design the entity-relationship diagram and relational model led to the successful creation of the database.
+- Recognized and created the most important queries, which where optimized with the use of different indexes using PostgreSQL that resulted in a succesfull experimentation of the queries that proved the correctness ans usability of the optimized queries with large data.
 
+`Client Communication` `Databases` `Algorithms` `Indexes` `SQL Optimization`
 
 
 <br>
@@ -70,9 +111,11 @@ ________
 
 
 ### Fetching for fruits
-- Designed and developed the game "Fetching for fruits" with GameMaker2 
+- Designed and developed the game "Fetching for fruits" with GameMaker2 resulted in a complete game with 2 levels, instructions and a trailer.
+- In charge of the documentation and SCRUM tools.
+- Helped with the Game Design Document (GDD) and other documents needed.
 
-`Games Development` `SCRUM` `Games Design`
+`Games Development` `SCRUM` `Games Design` `GameMaker2`
 
 
 <br>
@@ -84,7 +127,9 @@ ________
 
 ### SDL engine
 - Implementation of a video game engine in c++ using SDL library for developing different projects resulting in two complete video games: Pong Game and Space Shooting Game.
+
 [Space Shooting Game](https://github.com/mayra-diaz/Space-SDL)
+
 [Pong Game](https://github.com/mayra-diaz/Pong-SDL)
 
 `C++` `Game Development` `Data Structures` `Object-oriented programming (OOP)`

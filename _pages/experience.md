@@ -43,23 +43,5 @@ Enlarged exam solutions and exercise sheets in Latex to explain and teach the st
 - Taught more than 20 hours in programming courses about Python and C++.
 - Develop customized exercises and presentations for students that lead to better understanding and higher grades.
 
-<br>
 
-________
-
-<br>
-
-## LEADERSHIP POSITIONS
-
-### IEEE Computer Society President     (January 2021 - December 2021)
-- Managed a team of more than 16 people, resulting in more than 12 events and an international conference.
-- Delegated roles for organizing social events such as workshops, seminars, and integrations on topics related to computing.
-- Leads the team's relationships, both internally and externally, with other universities and countries.
-
-### Peer Mentoring Program at UTEC University       (March 2020 – August 2021)
-*Program leader*
-- Organized a team of 10 peer mentors and developed the mentoring materials for over 90 students. Followed up with all groups and coordinated with the program managers resulting in 75% of attendance.
-
-*Peer mentor*
-- Responsible for 15 undergraduate students per cycle. Conducted weekly meetings with assigned mentees to provide orientation to the university. Supported their transition to college by teaching them useful skills such as organization, time management, stress management, and public speaking.
 
