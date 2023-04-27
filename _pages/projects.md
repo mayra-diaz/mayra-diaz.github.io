@@ -77,6 +77,7 @@ ________
 
 ### Petbuss business analysis and design of technological business strategies
 Consulting project that helped real entrepreneurs to analyze and improve their business by constructing new business strategies. Petbuss is a business that does pet transportation and asistance in pet medical apppointments and other procedure.
+
 Results:
 - Completed the analysis and coumentation of the business, including the Business Model Canvas, SWOT, Process Flow Diagram and Business Analysis Process Flow.
 - Designed of business strategies based on their needs and develop complete documentation of it.
