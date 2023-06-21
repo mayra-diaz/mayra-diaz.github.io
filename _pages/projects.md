@@ -7,7 +7,7 @@ include_in_header: true
 # Projects
 
 ### StockX dataset cleaning and analysis
-*In progress*
+Performed comprehensive cleaning, analysis, and visualization of the StockX dataset by leveraging data science techniques with SQL, Pandas, Seaborn and GeoPandas resulting in meaningful insights.
 
 `Data Engineering` `Data Science` `Pandas` `SQL`
 
@@ -20,7 +20,8 @@ ________
 
 
 ### Demystifying Duo Security’s MFA and Okta Verify’s SSO Solution Used at Colorado School of Mines
-*In progress*
+Analyzed  Duo Security's MFA and Okta Verify's SSO solutions using research skills and cryptography knowledge to analyze their security and accessibility, culminating in the development of a comprehensive paper that offers an in-depth explanation of both systems while providing a critical analysis of their strengths and weaknesses in terms of security and accessibility.
+
 
 `Cryptography`
 
@@ -33,7 +34,7 @@ ________
 
 
 ### Robot Understanding of Human Behaviors Using Skeleton-Based Representations
-*In progress*
+Developed and trained a robust model utilizing skeleton-based representations, machine learning, Python, and ROS,  to accurately identify and classify human behaviors.
 
 `Robotics` `ROS` `Machine Learning`
 
@@ -76,7 +77,7 @@ ________
 
 
 ### Petbuss business analysis and design of technological business strategies
-Consulting project that helped real entrepreneurs to analyze and improve their business by constructing new business strategies. Petbuss is a business that does pet transportation and asistance in pet medical apppointments and other procedure.
+Consulting project that helped real entrepreneurs to analyze and improve their business by constructing new business strategies. Petbuss is a business that does pet transportation and assistance in pet medical appointments and other procedures.
 
 Results:
 - Completed the analysis and coumentation of the business, including the Business Model Canvas, SWOT, Process Flow Diagram and Business Analysis Process Flow.

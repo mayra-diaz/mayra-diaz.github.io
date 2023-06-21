@@ -14,7 +14,7 @@ initials                                  : MDT
 app_icon                                  : assets/logo.png                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 name                                      : Mayra Diaz Tramontana                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 type                                      : Senior Computer Science Student           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-description                               : Currently on an exchange program at Colorado School of Mines
+description                               : Research assistant at Colorado School of Mines
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,7 +34,7 @@ youtube_username                          :
 
 
 # About me
-long_description                          : Senior student of Computer Science at the University of Engineering and Technology UTEC. Currently at the Colorado School of Mines for an exchange program. I have extensive experience in project management, agile methodologies and database design and implementation, I also have valuable experience in predictive and machine learning models, complex data structures, client management, robotics, data science, cybersecurity and cryptography. I enjoy volunteering, such as supporting student organizations. I hope to contribute to the world in whatever role I play. I am interested in technology innovation projects and digital transformation. My academic interests include cryptography and data analytics. I am seeking to participate in research projects and challenging internships.
+long_description                          : Senior student of Computer Science at the University of Engineering and Technology UTEC. Currently working as research assistant at Colorado School of Mines. I have extensive experience in project management, agile methodologies and database design and implementation, I also have valuable experience in predictive and machine learning models, complex data structures, client management, robotics, data science, cybersecurity and cryptography. I enjoy volunteering, such as supporting student organizations. I hope to contribute to the world in whatever role I play. I am interested in technology innovation projects and digital transformation. My academic interests include data management and analytics. I am seeking to participate in research projects and challenging internships.
 
 # Skills list
 skills                                    :
